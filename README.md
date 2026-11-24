@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
 # 👋 Hey, I'm Rubaha Arif! 💚
 
 ### 💻 Aspiring Web Developer | 🎓 Software Engineering Student
